@@ -30,7 +30,7 @@ export class Minion {
             agent: this.agent,
             rejectUnauthorized: false,
             headers: {
-                'Origin': 'http://slither.io',
+                'Origin': 'http://gota.io',
                 'Accept-Encoding': 'gzip, deflate',
                 'Accept-Language': 'en-US,en;q=0.8',
                 'Cache-Control': 'no-cache',
